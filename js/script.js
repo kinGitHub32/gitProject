@@ -1,1 +1,3 @@
-const a = "Hi there";
+
+const b = "hi there";
+const func = () =>{};
